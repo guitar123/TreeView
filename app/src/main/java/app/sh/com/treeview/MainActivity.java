@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void initData() {
 
+
         mDatas = new ArrayList<FileBean>();
         FileBean bean = new FileBean(1, 0, "根目录1");
         mDatas.add(bean);
