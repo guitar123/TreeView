@@ -26,17 +26,6 @@ public class MainActivity extends AppCompatActivity {
         initView();
         initListener();
 
-        testGit();
-        testGit2();
-    }
-
-    private void testGit2() {
-
-    }
-
-    private void testGit() {
-
-
     }
 
 
