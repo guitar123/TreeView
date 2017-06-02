@@ -27,6 +27,11 @@ public class MainActivity extends AppCompatActivity {
         initListener();
 
         testGit();
+        testGit2();
+    }
+
+    private void testGit2() {
+
     }
 
     private void testGit() {
